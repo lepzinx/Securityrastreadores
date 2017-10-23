@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "securityrastreadores", "securityrastreadores.phpproj", "{E566BDA1-72F2-4F71-9E0C-D1B89E2AB8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E566BDA1-72F2-4F71-9E0C-D1B89E2AB8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E566BDA1-72F2-4F71-9E0C-D1B89E2AB8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3B2119-8039-40EB-B5FF-E150BA9B43C1}
+	EndGlobalSection
+EndGlobal
