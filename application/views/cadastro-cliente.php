@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> \\ salve leo
+<head> 
     <meta charset="utf-8">
     <title>SecurityRastreadores - Cadastro de Clientes</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
